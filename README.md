@@ -11,3 +11,4 @@ This project analysis texts and outputs the sentiment as positive or negative
 **THE OUTPUT SHOULD LOOK LIKE THIS**
 
 ![image](https://github.com/AaroneGeorge/sentiment-analysis-on-texts/assets/96471433/0d30d655-f7b9-4ce3-8d29-d86f1104218f)
+![image](https://github.com/AaroneGeorge/sentiment-analysis-on-texts/assets/96471433/5cd96a2b-2d34-45f9-bd5b-dc3df533face)
